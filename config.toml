@@ -1,0 +1,11 @@
+baseURL = "https://awesomeipfs.com"
+relativeURLs = true
+title = "Awesome IPFS"
+languageCode = "en-us"
+
+[params]
+  domain = "awesomeipfs.com"
+  name = "Awesome IPFS"
+  title = "Awesome IPFS"
+  description = "Let's make peer-to-peer a first-class part of the web."
+  author = "olizilla"

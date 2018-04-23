@@ -1,0 +1,172 @@
+title: Apps
+content:
+  - name: akasha
+    url: http://akasha.world/
+    description: >
+      A Next-Generation Social Media Network, powered by Ethereum and embedded
+      into IPFS.
+  - name: Alexandria
+    url: http://www.alexandria.io/learn/#integrated-technologies
+    description: >
+      Decentralized content publishing / monetization platform.
+  - name: Arbore
+    url: http://arbo.re
+    description: >
+      A friend-to-friend file-sharing app build on top of IPFS.
+  - name: beets
+    url: https://github.com/beetbox/beets
+    description: >
+      Beets has a plugin which allows for easy sharing of music libraries
+      using IPFS
+  - name: Blokaly
+    url: https://www.blokaly.com
+    description: >
+      A badge issuing, sharing and display platform based on IPFS.
+  - name: Boards
+    url: https://ipfs.io/ipns/boards.ydns.eu
+    source: https://github.com/fazo96/ipfs-boards
+    description: >
+      Distributed social platform that runs in the browser.
+  - name: Cohort
+    url: https://github.com/zignig/cohort
+    description: >
+      A golang app to preset a threejs interface and get all of its assets
+      out of IPFS.
+  - name: Computes
+    url: https://computes.io
+    description: >
+      Computes.io is a distributed supercomputer powered by IPFS.
+  - name: dapple
+    url: https://github.com/nexusdev/dapple
+    description: >
+      Dapple is a Solidity developer multitool designed to manage the growing
+      complexity of interconnected smart contract systems.
+  - name: digx
+    url: https://www.dgx.io/
+    description: >
+      Digix is an asset-tokenisation platform built on Ethereum and IPFS.
+  - name: dtube
+    url: https://d.tube
+    description: >
+      Distributed video sharing with steem.it intergrations, using ipfs for
+      backend storage.
+  - name: Ethlance
+    url: http://ethlance.com
+    source: https://github.com/madvas/ethlance
+    description: >
+      First completely decentralised job market platform built on Ethereum
+      and IPFS.
+  - name: git-ipfs-rehost
+    url: https://github.com/whyrusleeping/git-ipfs-rehost
+    description: >
+      A script to rehost your git repos in ipfs.
+  - name: Global Upload
+    url: https://globalupload.io/
+    description: >
+      File transportation service for IPFS, upload files to the future of
+      distributed web.
+  - name: HydrusNetwork
+    url: https://github.com/hydrusnetwork/hydrus
+    description: >
+      A booru-style media tagging application with a multitude of features,
+      recently added basic ipfs support.
+  - name: InterPlanetary Wayback
+    url: https://github.com/oduwsdl/ipwb
+    description: >
+      Web Archive (WARC) indexing and replay using IPFS.
+  - name: Interplanetary Wiki
+    url: https://github.com/jamescarlyle/ipfs-wiki
+    description: >
+      Wiki built on top of IPFS
+  - name: IPFS Event Drop
+    url: https://github.com/travisperson/ipfs-event-drops
+    description: >
+      An app that allows for improved visualization of ipfs events.
+  - name: IPFS Drive
+    url: http://ipfs-drive.ydns.eu
+    source: https://github.com/fazo96/ipfs-drive
+    description: >
+      In browser file manager for IPFS.
+  - name: ipfs.ink
+    url: https://ipfs.ink
+    source: https://github.com/kpcyrd/ipfs.ink
+    description: >
+      Publish and render markdown essays to and from ipfs.
+  - name: ipfs-search
+    url: http://ipfs-search.com
+    description: >
+      Search engine for files and directories on IPFS.
+  - name: ipfs-share
+    url: https://github.com/rameshvarun/ipfs-share
+    description: >
+      Pastebin/Image host/File sharing application
+  - name: ipfs.pics
+    url: https://github.com/ipfspics/ipfspics-server
+    description: >
+      Upload and share pics.
+  - name: IPFSBin
+    url: https://github.com/victorbjelkholm/ipfsbin
+    description: >
+      Pastebin clone build.
+  - name: IPFSStore
+    url: https://ipfsstore.it
+    description: >
+      Pinning paid with Bitcoin
+  - name: markup.rocks
+    url: https://ipfs.io/ipfs/QmWPgJnUGLB1LPh9KMG9LEN4LVu5e17TwkEtcmTWdNn9V6/#/ipfs/QmfQ75DjAxYzxMP2hdm6o4wFwZS5t7uorEZ2pX9AKXEg2u
+    source: https://github.com/davidar/markup.rocks
+    description: >
+      Pandoc-based markup editor/previewer/converter, ported to IPFS.
+  - name: Orbit
+    url: https://github.com/haadcode/orbit
+    description: >
+      Distributed, peer-to-peer chat application on IPFS.
+  - name: Partyshare
+    url: https://partysha.re
+    description: >
+      A simple file sharing app.
+  - name: FileNation
+    url: https://filenation.io/
+    description: >
+      The simplest way to send your files around the world using IPFS.
+  - name: Playback
+    url: https://mafintosh.github.io/playback/
+    description: >
+      IPFS playback support. This allows casting a video in IPFS to a Chromecast.
+  - name: PushToTalk
+    url: http://timothy.hobbs.cz/push-to-talk/index.html
+    description: >
+      Push to Talk lets you edit audio essays and publish them with IPFS.
+  - name: ujo
+    url: http://ujomusic.com/
+    description: >
+      A blockchain marketplace for musicians.
+  - name: uport
+    url: https://uport.me/#home
+    description: >
+      Uport is a mobile, self-sovereign identity and key management system,
+      built on the Ethereum blockchain.
+  - name: gogo.tattoo
+    url: http://gogo.tattoo
+    description: >
+      Gogo Tattoo Project uses IPFS, DLTs and other modern technologies to
+      offer tattoo artists and wearers an unbreakable lifetime record of their portfolios.
+      gogo.tattoo app already has a feature to share works directly to IPFS.
+  - name: IPFessay
+    url: https://gitlab.com/stavros/IPFessay
+    description: >
+      A simple way to publish uncensorable essays on IPFS.
+  - name: Hardbin
+    url: https://github.com/jes/hardbin
+    description: >
+      Hardbin is an encrypted pastebin, with the decryption key passed in
+      the URL fragment
+  - name: hasteIPFS
+    url: https://ipfs.io/ipns/bin.ipfs.ovh/
+    description: >
+      IPFS based code bin. (Read only for now)
+  - name: Gorilla REPL viewer
+    source: https://github.com/keorn/ipfs-gorilla-repl
+    url: https://ipfs.io/ipfs/QmRNUauWDvZFkAp1Bw3kAode3jT8aH2vx7LYzbS7H6R3Mg/view.html?path=/ipfs/QmbRdyLXiFWrKc5hW1NbvpUxF9tLovWCPgiz4BDhjD9k3j
+    description: >
+      Gorilla is a rich REPL for Clojure in the notebook style.

@@ -1,0 +1,27 @@
+{
+  "name": "awesome-ipfs",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "run-p build:*",
+    "build:readme": "./scripts/make-readme.js",
+    "build:fonts": "shx mkdir -p static/css/fonts && shx cp node_modules/ipfs-css/fonts/* static/css/fonts",
+    "build:css": "lessc --clean-css --autoprefix less/main.less static/css/main.css",
+    "build:hugo": "hugo"
+  },
+  "author": "Protocol Labs, Inc.",
+  "license": "MIT",
+  "devDependencies": {
+    "browserify": "^16.2.0",
+    "less": "^2.7.2",
+    "less-plugin-autoprefix": "^1.5.1",
+    "less-plugin-clean-css": "^1.5.1",
+    "npm-run-all": "^4.1.2",
+    "shx": "^0.2.2",
+    "uglifyify": "^4.0.5"
+  },
+  "dependencies": {
+    "ipfs-css": "^0.3.0",
+    "node-yaml": "^3.1.1",
+    "tachyons": "^4.9.1"
+  }
+}

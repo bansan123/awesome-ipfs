@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    {{ partial "head" . }}
+  </head>
+  <body class='sans-serif'>
+    <header class='ph3 pv4 ipfs-gradient-0 tc'>
+      <h1 class='white'>Awesome IPFS</h1>
+    </header>
+
+    <div class='mw8 center'>
+      <div class='cf pl2 pt3 pt4-l pb3 bt b--near-white'>
+        <div class="fl w-30-l pa2 lh-copy">
+          <a class="link navy">
+            <h1 class="mt0 fw2 f2 f3-l lh-title">
+              Apps
+            </h1>
+          </a>
+          <p class="f5 f6-l fw4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc gravida mollis leo in consectetur. Nullam ornare eleifend tortor tempus fringilla. Aliquam erat volutpat.</p>
+        </div>
+        <div class='fl w-100 w-70-l pa2'>
+          {{ range .Site.Data.apps.content }}
+            <p>{{ .name }}</p>
+            <p>{{ .description }}</p>
+          {{ end }}
+        </div>
+      </div>
+    </div>
+  </body>
+</html>
