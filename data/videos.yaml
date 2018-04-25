@@ -1,8 +1,9 @@
 title: Videos
+description: 'Videos about IPFS'
 content:
-- name: IPFS Alpha - Why we must redistribute the web
-  url: https://www.youtube.com/watch?v=skMTdSEaCtA
-- name: Juan Benet at Stanford 2015
-  url: https://www.youtube.com/watch?v=HUVmypx9HGI
-- name: Juan Benet at Fullstack Fest 2016
-  url: https://www.youtube.com/watch?v=jONZtXMu03w
+  - name: IPFS Alpha - Why we must redistribute the web
+    url: https://www.youtube.com/watch?v=skMTdSEaCtA
+  - name: Juan Benet at Stanford 2015
+    url: https://www.youtube.com/watch?v=HUVmypx9HGI
+  - name: Juan Benet at Fullstack Fest 2016
+    url: https://www.youtube.com/watch?v=jONZtXMu03w
