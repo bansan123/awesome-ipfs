@@ -2,6 +2,7 @@
   "name": "awesome-ipfs",
   "version": "1.0.0",
   "scripts": {
+    "start": "hugo server --watch",
     "build": "run-p build:*",
     "build:readme": "./scripts/make-readme.js",
     "build:fonts": "shx mkdir -p static/css/fonts && shx cp node_modules/ipfs-css/fonts/* static/css/fonts",

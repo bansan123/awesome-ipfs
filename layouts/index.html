@@ -13,14 +13,14 @@
         <div class="fl w-30-l pa2 lh-copy">
           <a class="link navy">
             <h1 class="mt0 fw2 f2 f3-l lh-title">
-              Apps
+              {{ .Site.Data.apps.title }}
             </h1>
           </a>
-          <p class="f5 f6-l fw4">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nunc gravida mollis leo in consectetur. Nullam ornare eleifend tortor tempus fringilla. Aliquam erat volutpat.</p>
+          <p class="f5 f6-l fw4">{{ .Site.Data.apps.description }}</p>
         </div>
         <div class='fl w-100 w-70-l pa2'>
           {{ range .Site.Data.apps.content }}
-            <p>{{ .name }}</p>
+            <p><strong>{{ .name }}</strong></p>
             <p>{{ .description }}</p>
           {{ end }}
         </div>

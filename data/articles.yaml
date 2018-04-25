@@ -1,31 +1,32 @@
 title: Articles
+description: Articles about the decentralized web and IPFS.
 content:
-- name: Decentralized & Distributed Edge Computing Comes to Computes.io
-  date: '2017-06-13'
-  url: https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85
-- name: Using IPFS for IoT Communications
-  date: '2017-03-31'
-  url: https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a
-- name: 'IPFS: The Internet Democratised'
-  date: '2016-09-12'
-  url: https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b
-- name: Changelog Podcast
-  date: '2016-05-20'
-  url: https://changelog.com/204/
-- name: First Steps Toward Implementing Distributed Permanent Web With IPFS
-  date: '2015-09-10'
-  url: https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/
-- name: Introduction to IPFS
-  date: '2015-09-13'
-  url: http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example
-- name: The InterPlanetary File System Wants to Create a Permanent Web
-  date: '2015-09-18'
-  url: http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web
-- name: Eris + IPFS
-  date: '2015-11-01'
-  url: https://monax.io/2015/11/01/eris-and-ipfs/
-- name: HTTP is obsolete. It's time for the distributed, permanent web
-  date: '2015-09-08'
-  url: https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
-- name: Downloading nodejs versions with nvm/n over IPFS
-  url: https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc
+  - name: Decentralized & Distributed Edge Computing Comes to Computes.io
+    date: '2017-06-13'
+    url: https://blog.computes.io/decentralized-distributed-edge-computing-comes-to-computes-io-396aa062bc85
+  - name: Using IPFS for IoT Communications
+    date: '2017-03-31'
+    url: https://medium.com/@chrismatthieu/using-ipfs-for-iot-communications-b49c2139783a
+  - name: 'IPFS: The Internet Democratised'
+    date: '2016-09-12'
+    url: https://medium.com/@tonywillenberg/web-3-0-a-truly-democratised-internet-f4b06cb4077b
+  - name: Changelog Podcast
+    date: '2016-05-20'
+    url: https://changelog.com/204/
+  - name: First Steps Toward Implementing Distributed Permanent Web With IPFS
+    date: '2015-09-10'
+    url: https://hacked.com/first-steps-toward-implementing-distributed-permanent-web-ipfs/
+  - name: Introduction to IPFS
+    date: '2015-09-13'
+    url: http://whatdoesthequantsay.com/2015/09/13/ipfs-introduction-by-example
+  - name: The InterPlanetary File System Wants to Create a Permanent Web
+    date: '2015-09-18'
+    url: http://motherboard.vice.com/read/the-interplanetary-file-system-wants-to-create-a-permanent-web
+  - name: Eris + IPFS
+    date: '2015-11-01'
+    url: https://monax.io/2015/11/01/eris-and-ipfs/
+  - name: HTTP is obsolete. It's time for the distributed, permanent web
+    date: '2015-09-08'
+    url: https://ipfs.io/ipfs/QmNhFJjGcMPqpuYfxL62VVB9528NXqDNMFXiqN5bgFYiZ1/its-time-for-the-permanent-web.html
+  - name: Downloading nodejs versions with nvm/n over IPFS
+    url: https://ipfs.io/ipfs/QmTkzDwWqPbnAh5YiV5VwcTLnGdwSNsNTn2aDxdXBFca7D/example#/ipfs/QmUx363UFtgiQqkHHsPK3TSDmwoALDo2hrbMWbcxjH2vFc

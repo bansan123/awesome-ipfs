@@ -1,4 +1,5 @@
 title: Tools
+description: Tools built on the top of IPFS.
 content:
 - name: cachewarmer
   url: https://github.com/BrendanBenshoof/cachewarmer
